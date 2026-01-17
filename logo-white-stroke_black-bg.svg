@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1054 1054">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #111;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Logogram">
+    <rect class="cls-1" width="1054" height="1054" rx="164.67" ry="164.67"/>
+    <g>
+      <path class="cls-2" d="M400.49,419.25h462.07c62.92,0,114,51.08,114,114v70.19c0,5.52-4.48,10-10,10h-472.07c-62.92,0-114-51.08-114-114v-60.19c0-11.04,8.96-20,20-20Z" transform="translate(563.85 -328.55) rotate(45)"/>
+      <path class="cls-2" d="M396.41,607.64h92.31c27.6,0,50,22.4,50,50v181.25c0,5.52-4.48,10-10,10h-102.31c-27.6,0-50-22.4-50-50v-171.25c0-11.04,8.96-20,20-20Z" transform="translate(1185.84 270.7) rotate(90)"/>
+      <path class="cls-2" d="M817.63,244.3h92.31c27.6,0,50,22.4,50,50v102.31c0,5.52-4.48,10-10,10h-102.31c-27.6,0-50-22.4-50-50v-92.31c0-11.04,8.96-20,20-20Z" transform="translate(1204.24 -553.33) rotate(90)"/>
+      <path class="cls-2" d="M22.61,430.06h441.09c5.52,0,10,4.48,10,10v70.19c0,62.92-51.08,114-114,114H-71.39c-11.04,0-20-8.96-20-20v-60.19c0-62.92,51.08-114,114-114Z" transform="translate(718.31 336) rotate(90)"/>
+    </g>
+  </g>
+</svg>
